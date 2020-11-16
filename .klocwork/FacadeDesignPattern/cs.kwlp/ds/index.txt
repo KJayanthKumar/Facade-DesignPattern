@@ -1,0 +1,6 @@
+C:\Learning\FacadeDesignPattern\FacadeDesignPattern\Program.cs;C:\Learning\FacadeDesignPattern\.klocwork\FacadeDesignPattern\cs.kwlp\ds\1\mrre14lc.bam;1;0;False;2F215DDF0699B77EDD019D70A681797A1C74FDCA;False
+C:\Learning\FacadeDesignPattern\FacadeDesignPattern\Properties\AssemblyInfo.cs;;2;0;False;D610D829610DC6EB29B11A1866FD9525CA872743;False
+C:\Learning\FacadeDesignPattern\FacadeDesignPattern\Product.cs;C:\Learning\FacadeDesignPattern\.klocwork\FacadeDesignPattern\cs.kwlp\ds\3\2v1wrche.nbf;3;0;False;DA60A99A0C55CAFFB889EDD0CDB6F26E3D92897B;False
+C:\Learning\FacadeDesignPattern\FacadeDesignPattern\Payment.cs;C:\Learning\FacadeDesignPattern\.klocwork\FacadeDesignPattern\cs.kwlp\ds\4\aq3ztyvl.nmn;4;0;False;07E94E939E7E45AE71EA5E7E17B753DFFBEAEDCB;False
+C:\Learning\FacadeDesignPattern\FacadeDesignPattern\Invoice.cs;C:\Learning\FacadeDesignPattern\.klocwork\FacadeDesignPattern\cs.kwlp\ds\5\seb4vvl1.lcz;5;0;False;08D3A24953863A55FB9229501B614539E7D1B772;False
+C:\Learning\FacadeDesignPattern\FacadeDesignPattern\Order.cs;C:\Learning\FacadeDesignPattern\.klocwork\FacadeDesignPattern\cs.kwlp\ds\6\ipy1eg5z.5sp;6;0;False;EEFB8DEE94B110329575D6EF5F0150F2D048F20D;False
